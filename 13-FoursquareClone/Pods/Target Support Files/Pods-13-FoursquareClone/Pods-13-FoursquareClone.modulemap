@@ -1,0 +1,6 @@
+framework module Pods_13_FoursquareClone {
+  umbrella header "Pods-13-FoursquareClone-umbrella.h"
+
+  export *
+  module * { export * }
+}
